@@ -1,15 +1,15 @@
 {
     "name": "Xmarty Video Stream Bot",
     "description": "telegram bot for streaming video & music trought the telegram group video chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/8848147cd4fb6af2f094f.jpg",
+    "logo": "https://te.legra.ph/file/85954f386aa7195ef3dc4.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream"
     ],
-    "website": "https://t.me/xmarty_suppprt",
-    "repository": "https://github.com/S780821/video-stream",
-    "success_url": "https://t.me/xmartperson",
+    "website": "https://t.me/Clan8xofficial",
+    "repository": "https://github.com/SUSHILxSPAM",
+    "success_url": "https://t.me/Allf_ban",
     "env": {
         "API_ID": {
             "description": "your APP_ID from my.telegram.org",
