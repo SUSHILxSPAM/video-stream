@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By XmartyMusicProject
+# Copyright (C) 2021 By SushilXMusicProject
 
 from pyrogram import Client, filters
 from pyrogram.types import CallbackQuery, InlineKeyboardButton, InlineKeyboardMarkup
@@ -32,19 +32,19 @@ async def cbstart(_, query: CallbackQuery):
                 [InlineKeyboardButton("乂ʙᴀsɪᴄ ɢᴜɪᴅᴇ乂", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("乂ᴄᴏᴍᴍᴀɴᴅs乂", callback_data="cbcmds"),
-                    InlineKeyboardButton("乂ᴄʀᴇᴀᴛᴏʀ乂", url=f"https://t.me/Xmartperson"),
+                    InlineKeyboardButton("乂ᴄʀᴇᴀᴛᴏʀ乂", url=f"https://t.me/Sushil8xop"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/Rockerz_support"
+                        "乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/Cpani8xofficial"
                     ),
                     InlineKeyboardButton(
-                        "乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/Rockerz_updates"
+                        "乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/ALLF_BAN"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "乂sɪɴɢɢɪɴɢ sᴜᴘᴘᴏʀᴛ乂", url=f"https://t.me/Singing_music_Idol"
+                        "乂sɪɴɢɢɪɴɢ sᴜᴘᴘᴏʀᴛ乂", url=f"https://t.me/ALLG_BAN"
                     )
                 ],
             ]
