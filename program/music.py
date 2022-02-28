@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By Xmarty Music-Project
+# Copyright (C) 2021 By Sushil Music-Project
 # Commit Start Date 20/10/2021
 # Finished On 28/10/2021
 
@@ -56,10 +56,10 @@ async def play(_, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/Rockerz_support"
+                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/clan8xofficial"
                 ),
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/Rockerz_updates"
+                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/allf_ban"
                 ),
             ]
         ]
@@ -204,10 +204,10 @@ async def stream(_, m: Message):
         [
             [
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/Rockerz_support"
+                    text="乂ʙᴏᴛ ɢʀᴏᴜᴘ乂", url=f"https://t.me/clan8xofficial"
                 ),
                 InlineKeyboardButton(
-                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/Rockerz_updates"
+                    text="乂ʙᴏᴛ ᴄʜᴀɴɴᴇʟ乂", url=f"https://t.me/allf_ban"
                 ),
             ]
         ]
